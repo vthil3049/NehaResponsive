@@ -1,0 +1,17 @@
+
+.jumbotron {
+	border: 2px solid dodgerblue;
+	margin-top: 1em;
+	padding: 0px auto 0px auto;
+}
+
+.jumbotron h1, 
+.jumbotron h1 .text-success, 
+.jumbotron .h1, 
+.jumbotron h1:hover ,
+.jumbotron .h1:hover
+{
+  color: dodgerblue;
+  
+}
+
