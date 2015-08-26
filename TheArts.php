@@ -4,7 +4,7 @@
 		<title>Chidambaram Nritya Kala Academy- The Art Forms</title>
 		<?php include("include/htmlhead.php"); ?>
 	</head>
-	<body id="theacademy" class="container-fluid">
+	<body id="thearts" class="container-fluid">
 			<?php include("include/header.php"); ?>
 			<?php include("include/navigation.php"); ?>
 			<div class="container-fluid">
