@@ -9,8 +9,8 @@
 				<span class="icon-bar"></span>
 			</button>
 			<!-- Replace text with image for branding -->
-			<a class="navbar-brand" rel="home" href="#" title="Neha Dance">
-				<img style="margin-top:-20px;" src="images/Bharatnatyam_logo_32.png" alt="Bharata Natyam Clipart" title="Classical dancer"/>
+			<a class="navbar-brand" rel="home" href="./index.php" title="Neha">
+				<img style="vertical-align:middle; margin-top:-17px;" src="images/BrandImage_Tiny_Reduced.jpg" alt="Bharata Natyam Clipart" title="Classical dancer"/>
 			</a>
 		</div>
 		<!-- Collect the nav links, forms, and other content for toggling -->
@@ -20,8 +20,24 @@
 				<li id="nav_profile"><a href="Profile.php">Profile</a></li>
 				<li id="nav_thearts"><a href="TheArts.php">The Art</a></li>
 				<li id="nav_academy"><a href="TheAcademy.php">Academy</a></li>
-				<li id="nav_gallery"><a href="Gallery.php">Gallery</a></li>				
+				<li class="dropdown" id="nav_gallery">
+				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery <span class="caret"></span></a>
+				  <ul class="dropdown-menu">
+					<li><a href="#">Arangetrams</a></li>
+					<li><a href="Shows.php">Shows</a></li>
+					<li><a href="#">Neha</a></li>
+					<li><a href="#">Awards</a></li>
+					<li role="separator" class="divider"></li>
+					<li><a href="#">Videos</a></li>
+				  </ul>
+				</li>
+				<!-- <li id="nav_gallery"><a href="Gallery.php">Gallery</a></li> -->				
 				<li id="nav_contactus"><a href="ContactUs.php">Contact Us</a></li>
+			</ul>
+			 <ul class="nav navbar-nav navbar-right">
+			 <li>
+				<a href="https://www.facebook.com/nehaparikhdance" title="Connect on Facebook"><i class="fa fa-facebook-square fa-lg"></i>&nbsp;Connect with Us</a>
+				</li>
 			</ul>
 		</div>
 		<!-- /.navbar-collapse -->

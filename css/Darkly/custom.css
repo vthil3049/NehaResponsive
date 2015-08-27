@@ -3,6 +3,10 @@
 	border: 2px solid dodgerblue;
 	margin-top: 1em;
 	padding: 0px auto 0px auto;
+	
+    padding-bottom: 30px;
+    padding-top: 30px;
+
 }
 
 .jumbotron h1, 
@@ -12,6 +16,18 @@
 .jumbotron .h1:hover
 {
   color: dodgerblue;
-  
+  font-size:3.5em;
 }
 
+.jumbotron img {
+vertical-align:top; 
+float:left;
+}
+nav .navbar {
+padding-bottom: 5px;
+}
+
+#ArekarImg {
+float:left;
+margin-right: 5px;
+}
