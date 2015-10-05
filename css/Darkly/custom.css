@@ -31,3 +31,12 @@ padding-bottom: 5px;
 float:left;
 margin-right: 5px;
 }
+
+.carousel-caption {
+padding-bottom: 0px;
+font-weight: 900;
+
+}
+.carousel-indicators {
+bottom: -5px;
+}

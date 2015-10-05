@@ -16,7 +16,8 @@
 									<p>Also experienced in teaching <strong><span class="text-success">Bollywood dance groups</span></strong>.<br />
 									Available to choreograph group or individual lessons.<br /> </p>
 									<h4>Specializes in teaching children, but students of all ages are welcome</h4>
-							<p>Would you like to try out a class or are you in need of a dance costume?<br />
+									<h3 class="text-info text-center">Neha's students have regularly won competitions in classical, folk and Bollywood dance competitions</h3>
+							<p>Would you like to try out a class?<br />
 						Contact Neha today!<br />
 						<i class="fa fa-envelope-o"></i>&nbsp;&nbsp;<a href="mailto:chidambaramdance@gmail.com">Neha Parikh</a><br/> 
 						<i class="fa fa-phone"></i>&nbsp;&nbsp;(603)546-5480<br/><br/>

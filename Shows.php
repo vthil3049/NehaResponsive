@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Chidambaram Nritya Kala Academy- Picture Gallery</title>
+		<title>Chidambaram Nritya Kala Academy- Performances</title>
 		<?php include("include/htmlhead.php"); ?>
 	</head>
 	<body id="gallery" class="container-fluid">

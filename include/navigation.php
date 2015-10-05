@@ -23,9 +23,9 @@
 				<li class="dropdown" id="nav_gallery">
 				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery <span class="caret"></span></a>
 				  <ul class="dropdown-menu">
-					<li><a href="#">Arangetrams</a></li>
+					<li><a href="Arangetrams.php">Arangetrams</a></li>
 					<li><a href="Shows.php">Shows</a></li>
-					<li><a href="#">Neha</a></li>
+					<li><a href="Abhinaya.php">Abhinaya</a></li>
 					<li><a href="#">Awards</a></li>
 					<li role="separator" class="divider"></li>
 					<li><a href="#">Videos</a></li>
