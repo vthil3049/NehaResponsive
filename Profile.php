@@ -20,19 +20,20 @@
                     Since 2005, when she relocated to the US, she has been teaching students in the US and is well known for her adherence to strict standards and yet very creative performances.  Following the Guru-Shishya traditions in teaching, she interacts with students in trying to get the best out of every student. <br />
                     It is to her credit that four of her students have performed their 'Arangetram' or solo dance debut recitals since 2006 and more are on their way to achieving this milestone.<br />
                 </p>
-            </div>
-            <div class="col-md-5 ">
-                <p>
-                    <img title="Neha during her arangetram" alt="Neha during her arangetram" src="images/NehaWeb32_02_Web.jpg" class="img-responsive center-block" />
-                </p>
                 <p>
         Neha is an active member of India Association of New Hampshire since 2005 which awarded her with <strong class="text-info">IANH "Excellence Award" in April, 2011.</strong> She was also presented the <strong class="text-info">"Spotlight on Excellence Award" in the category of "Dedicated dancer"</strong> by Lokvani in September 2011. 
                 </p>
                 <p><img title="Neha receives an excellence award" alt="Neha receiving excellence award" src="images/ExcellenceAward.jpg" class="img-responsive center-block"/></p>
-                <div> <p class="text-info text-center">Neha receiving excellence award.</p>
+                <div> <p class="text-info text-center">Neha receiving excellence award.</p></div>			
+            </div>
+            <div class="col-md-5 ">
+                <p>
+                    <img title="Neha during her arangetram" alt="Neha during her arangetram" src="images/Neha600_35_Profile.jpg" class="img-responsive center-block" />
+                </p>
+
                 </div>
             </div>
-					</div>
+					
 			</div>
 			<?php include("include/footer.php"); ?>
 	</body>
