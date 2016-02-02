@@ -20,17 +20,27 @@
                 <div class="tab-content">
                     <div class="active tab-pane fade in" id="ClassicalArt">
                         <h2 class="text-info text-center">The Classical Art Forms of India</h2>
-                        <p>
-                        <img title="Sculpture of dance and music" alt="Sculpture of dance and music" src="images/dancemusic.gif" style="float:left; margin-right:10px;"/>The aim of all Indian art is to produce aesthetic enjoyment or 'rasa' in the spectator. <br />
-                        According to the 'Natya Sastra', the Indian text of dance and drama dating back to approximately 200 B.C., a dancer must prepare himself/herself mentally and then employ certain techniques in order to succeed in producing rasa.<br />
-                        </p>
-                        <p> <img title="Dancer displeased with lover" alt="Dancer displeased with lover" src="images/IMG_1188[2]_web.jpg" style="float:right; margin-left:10px;"/>
-                        These dance forms are comprised of three aspects, 'Nritta' - pure dance, 'Abhinaya' - expressive mime and 'Nritya' - a combination of both Nritta and Abhinaya.<br />
-                        </p>
-                        <p>
-                           
-                            All Indian dances are religious in thematic content as their origin is from mythology and epics. Thus the storiesPoses portrayed in these dances, are generally associated with the Gods of the Hindu pantheon and give scope for dramatic presentation.
-                        </p>
+						<div class="row">
+							<div class="col-md-4">
+								<p>
+								<img title="Sculpture of dance and music" alt="Sculpture of dance and music" src="images/dancemusic.gif" style="float:left; margin-right:10px;"/></p>
+							</div>
+							<div class="col-md-4">
+								<p>
+								The aim of all Indian art is to produce aesthetic enjoyment or 'rasa' in the spectator. <br />
+								According to the 'Natya Sastra', the Indian text of dance and drama dating back to approximately 200 B.C., a dancer must prepare himself/herself mentally and then employ certain techniques in order to succeed in producing rasa.<br />
+								</p>
+								<p>
+								These dance forms are comprised of three aspects, 'Nritta' - pure dance, 'Abhinaya' - expressive mime and 'Nritya' - a combination of both Nritta and Abhinaya.<br />
+								</p>
+								<p>
+									All Indian dances are religious in thematic content as their origin is from mythology and epics. Thus the storiesPoses portrayed in these dances, are generally associated with the Gods of the Hindu pantheon and give scope for dramatic presentation.
+								</p>
+							</div>
+							<div class="col-md-4">
+							<p> <img title="Dancer displeased with lover" alt="Dancer displeased with lover" src="images/IMG_1188_2web.jpg" style="float:right; margin-left:10px;"/></p>
+							</div>
+						</div>
                     </div>
                     <div class="tab-pane fade in" id="Bharatanatyam">
                         <h2 class="text-info text-center">Bharatanatyam</h2>
