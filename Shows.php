@@ -36,7 +36,7 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img alt="Neha's performance" src="images/Carousel/IANH_FundRaiser08_98.gif" class="center-block" />
+                            <img alt="Neha's performance" src="images/Carousel/Jhuthi_muthi3.jpg" class="center-block" />
                             <div class="carousel-caption">
                                 <h6>IANH Fundraiser 2008</h6>
                                 <p>Neha performs at charity fundraiser</p>

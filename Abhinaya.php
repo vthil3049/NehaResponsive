@@ -39,19 +39,19 @@
                         <li data-target="#my-abhinaya" data-slide-to="12"></li>
 						<li data-target="#my-abhinaya" data-slide-to="13"></li>
                         <li data-target="#my-abhinaya" data-slide-to="14"></li>
-                        <li data-target="#my-abhinaya" data-slide-to="15"></li>
+                        <!-- <li data-target="#my-abhinaya" data-slide-to="15"></li> -->
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
                             <img src="images/Abhinaya/Lowres/Loha600_01.jpg" alt="Neha contemplation" title="Neha contemplation" class="center-block" />
                             <div class="carousel-caption bg-info">
-                                <h4>Shanta-Peace</h4>
+                                <h4>Pleasant Thoughts</h4>
                             </div>
                         </div>
                         <div class="item">
                             <img src="images/Abhinaya/Lowres/Loha600_02.jpg" alt="Neha pleasant thoughts" title="Neha pleasant thoughts" class="center-block" />
                             <div class="carousel-caption bg-info">
-                                <h4>Pleasant thoughts</h4>
+                                <h4>Shringara-Love</h4>
                             </div>
                         </div>
                         <div class="item">
@@ -63,7 +63,7 @@
                         <div class="item">
                             <img src="images/Abhinaya/Lowres/Loha600_04.jpg" alt="Writing a letter" title="Writing a letter" class="center-block" />
                             <div class="carousel-caption  bg-info">
-                                <h4>Writing a letter</h4>
+                                <h4>Writing a letter to a lover</h4>
                             </div>
                         </div>
                         <div class="item">
@@ -114,12 +114,12 @@
                                 <h4>Pining for the beloved</h4>
                             </div>
                         </div>		
-                        <div class="item">
+                        <!-- <div class="item">
                             <img src="images/Abhinaya/Lowres/Loha600_13.jpg" alt="Messenger bird" title="Messenger Bird" class="center-block" />
                             <div class="carousel-caption bg-info">
                                 <h4>Talking to the messenger bird</h4>
                             </div>
-                        </div>	
+                        </div>	-->
                         <div class="item">
                             <img src="images/Abhinaya/Lowres/Loha600_14.jpg" alt="The Goddess" title="Benevolent Goddess" class="center-block" />
                             <div class="carousel-caption bg-info">
@@ -135,7 +135,7 @@
                         <div class="item">
                             <img src="images/Abhinaya/Lowres/Loha600_16.jpg" alt="Contempt" title="Contempt" class="center-block" />
                             <div class="carousel-caption bg-info">
-                                <h4>Contempt</h4>
+                                <h4>Contempt-Bhibhatsa</h4>
                             </div>
                         </div>							
                      </div>
