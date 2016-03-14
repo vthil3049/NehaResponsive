@@ -26,9 +26,7 @@
 					<li><a href="Arangetrams.php">Arangetrams</a></li>
 					<li><a href="Shows.php">Shows</a></li>
 					<li><a href="Abhinaya.php">Abhinaya</a></li>
-					<li><a href="#">Awards</a></li>
-					<li role="separator" class="divider"></li>
-					<li><a href="#">Videos</a></li>
+					<li><a href="Awards.php">Awards</a></li>
 				  </ul>
 				</li>
 				<!-- <li id="nav_gallery"><a href="Gallery.php">Gallery</a></li> -->				

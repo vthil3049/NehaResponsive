@@ -43,3 +43,8 @@ font-weight: 900;
 .carousel-indicators {
 bottom: -5px;
 }
+
+#my-awards h4 {
+	background-color: dodgerblue;
+	padding: 0.5em;
+}
