@@ -18,6 +18,7 @@
                         <li data-target="#my-awards" data-slide-to="2"></li>
                         <li data-target="#my-awards" data-slide-to="3"></li>
                         <li data-target="#my-awards" data-slide-to="4"></li>
+						<li data-target="#my-awards" data-slide-to="5"></li>
                     </ol>
                     <div class="carousel-inner">
                         <div class="item active">
@@ -49,17 +50,17 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/Arangetrams/LasyaWM.png" alt="Lasya Thilagar" title="Lasya Thilagar: Performed Arangetram on September 6, 2010" class="center-block" />
+                            <img src="images/Awards/2014-Swaraag1stPlaceWinnerSoloShrvani.jpg" alt="Shrvani Balaji" title="2014 Swaraag First Place Winner Shravani Balaji" class="center-block" />
                             <div class="carousel-caption">
-                                <h3>Lasya Thilagar</h3>
-                                <p>September 6, 2010</p>
+                                <h3>2014 Swaraag First Place Winner</h3>
+                                <p>Shravani Balaji</p>
                             </div>
                         </div>
                         <div class="item">
-                            <img src="images/Arangetrams/Shravani_Arangetram.png" alt="Shravani Balaji" title="Shravani Balaji: Performed Arangetram in September 2012" class="center-block" />
+                            <img src="images/Awards/2014-Swaraag2ndPlaceWinnersJuniorCategory.jpg" alt="2014-Swaraag 2nd Place Winners Junior Category" title="2014-Swaraag 2nd Place Winners Junior Category" class="center-block" />
                             <div class="carousel-caption">
-                                <h3>Shravani Balaji</h3>
-                                <p>September 2, 2012</p>
+                                <h3>2nd Place Winners</h3>
+                                <p>2014-Swaraag Junior Category</p>
                             </div>
                         </div>
                      </div>
