@@ -9,7 +9,11 @@
 			<?php include("include/navigation.php"); ?>
 			<div class="container-fluid">
 					<div id="main" class="row">
-							<div class="col-md-4 col-md-offset-2"><h3 class="text-info text-center">Welcome to Neha's dance school</h3>
+							<div class="col-md-2">
+								<h4 class="text-info text-center">Neha's students win awards in dance competions every year</h4>
+								<h4 class="text-warning text-center"><a class="btn btn-primary" href="Awards.php"><i class="fa fa-trophy fa-4x" style="color:gold"aria-hidden="true"></i></a></h4>
+							</div>
+							<div class="col-md-4" ><h3 class="text-info text-center">Welcome to Neha's dance school</h3>
 									<h4 class="text-info text-center">Indian Classical Dance instruction by a talented teacher, performer and an expert choreographer!<br />
 									Serving Greater Nashua, New Hampshire since 2005...<br /><br /></h4>
 									<p>Specialized in the highly evolved and stylized ancient arts of <strong><span class="text-success"> <a href="TheArts.php#Bharatanatyam">Bharata Natyam</a>, <a href="TheArts.php#Mohiniattam">Mohini Attam</a> and traditional charming folk dances of India.</span></strong> </p><br />
