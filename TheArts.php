@@ -23,7 +23,7 @@
 						<div class="row">
 							<div class="col-md-4">
 								<p>
-								<img title="Sculpture of dance and music" alt="Sculpture of dance and music" src="images/dancemusic.gif" style="float:left; margin-right:10px;"/></p>
+								<img title="Sculpture of dance and music" alt="Sculpture of dance and music" src="images/dancemusic.gif" class="img-responsive" style="float:left; margin-right:10px;"/></p>
 							</div>
 							<div class="col-md-4">
 								<p>
@@ -38,7 +38,7 @@
 								</p>
 							</div>
 							<div class="col-md-4">
-							<p> <img title="Dancer displeased with lover" alt="Dancer displeased with lover" src="images/IMG_1188_2web.jpg" style="float:right; margin-left:10px;"/></p>
+							<p> <img title="Dancer displeased with lover" alt="Dancer displeased with lover" src="images/IMG_1188_2web.jpg" class="img-responsive" style="float:right; margin-left:10px;"/></p>
 							</div>
 						</div>
                     </div>
@@ -50,7 +50,7 @@
                             Bharata Natyam has been handed down through centuries by dance teachers called Nattuvanaars and temple dancers called Devadasis. <br />
                             It is a solo dance form, born in the temple and devotional in spirit. <br />
                             <br />
-                            <img title="Bharatanatyam Dancer" alt="Bharatanatyam dancer" src="images/IMG_7226_copy.jpg" style="float:right; margin-left:10px;"/>Bharata Natyam style is an exalted one, circumscribed by meticulous rules governing style and technique.Though this art form is serene and tranquil in nature, Bharata Natyam is notable for it's complex rhythmic patterns, the clear geometries made by the dancer's body and the geometries within the performance space. <br />
+                            <img title="Bharatanatyam Dancer" alt="Bharatanatyam dancer" src="images/IMG_7226_copy.jpg" class="img-responsive" style="float:right; margin-left:10px;"/>Bharata Natyam style is an exalted one, circumscribed by meticulous rules governing style and technique.Though this art form is serene and tranquil in nature, Bharata Natyam is notable for it's complex rhythmic patterns, the clear geometries made by the dancer's body and the geometries within the performance space. <br />
                             The Abhinaya of traditional Bharata Natyam revolves around a heroine in a state of anticipation of either separation or union with her beloved. As this woman anticipating a union with her lover is also a metaphor for the human-being waiting for a union with the Unseen, it can be interpreted in either a religious or secular frame work. <br />
                             The combination and subtleties of these movements and themes, their close connections with Carnatic music and the vast realm of Indian mythology, give Bharata Natyam a rare union of complexity and accessibility which are key to art of exquisite beauty.                        
                         </p>

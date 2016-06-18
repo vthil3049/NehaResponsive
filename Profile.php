@@ -18,7 +18,7 @@
                 </p>
                 <p>
                     Since 2005, when she relocated to the US, she has been teaching students in the US and is well known for her adherence to strict standards and yet very creative performances.  Following the Guru-Shishya traditions in teaching, she interacts with students in trying to get the best out of every student. <br />
-                    It is to her credit that four of her students have performed their 'Arangetram' or solo dance debut recitals since 2006 and more are on their way to achieving this milestone.<br />
+                    It is to her credit that many of her students have performed their 'Arangetram' or solo dance debut recitals since 2006 and more are on their way to achieving this milestone.<br />
                 </p>
                 <p>
         Neha is an active member of India Association of New Hampshire since 2005 which awarded her with <strong class="text-info">IANH "Excellence Award" in April, 2011.</strong> She was also presented the <strong class="text-info">"Spotlight on Excellence Award" in the category of "Dedicated dancer"</strong> by Lokvani in September 2011. 
