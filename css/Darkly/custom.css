@@ -36,9 +36,10 @@ margin-right: 5px;
 }
 
 .carousel-caption {
-padding-bottom: 0px;
+    /*  position:absolute; */
+padding-bottom: 0px; 
 font-weight: 900;
-
+text-align: center;
 }
 .carousel-indicators {
 bottom: -5px;
@@ -65,3 +66,9 @@ bottom: -5px;
     margin-right: 1em;
     margin-left: 1em;
     }
+#awards_slider .item {
+    position: relative;
+}
+#awards_slider .item .carousel-caption{
+    position: absolute;
+}
