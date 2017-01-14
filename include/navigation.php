@@ -29,7 +29,8 @@
 					<li><a href="Awards.php">Awards</a></li>
 				  </ul>
 				</li>
-				<!-- <li id="nav_gallery"><a href="Gallery.php">Gallery</a></li> -->				
+				<li id="nav_archives"><a href="Archives.php">Archives</a></li>
+				<!-- <li id="nav_gallery"><a href="Gallery.php">Gallery</a></li> -->
 				<li id="nav_contactus"><a href="ContactUs.php">Contact Us</a></li>
 			</ul>
 			 <ul class="nav navbar-nav navbar-right">
