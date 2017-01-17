@@ -29,10 +29,10 @@
                             </div>
                         </div>
                         <div class="item">
-                            <img alt="Middle School Students perform" src="images/Carousel/IANH_FundRaiser08_12.gif" class="center-block" />
+                            <img alt="Exotic Ancient India" src="images/Carousel/Song - Exotic ancient India. IANH Diwali 2014.jpg" class="center-block" />
                             <div class="carousel-caption">
-                                <h6>IANH Fundraiser 2008</h6>
-                                <p>Middle School Students perform at Charity Fundraiser</p>
+                                <h6>IANH Diwali 2014</h6>
+                                <p>Song -Exotic Ancient India</p>
                             </div>
                         </div>
                         <div class="item">
@@ -72,7 +72,7 @@
                         </div>
                     </div>
                     <a class="left carousel-control" href="#my-carousel" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left"> </span> 
+                        <span class="glyphicon glyphicon-chevron-left"> </span>
                     </a>
                     <a class="right carousel-control" href="#my-carousel" data-slide="next">
                          <span class="glyphicon glyphicon-chevron-right"></span>
