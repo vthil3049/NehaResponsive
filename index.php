@@ -37,7 +37,7 @@
 								Available to choreograph group or individual lessons.<br /> </p>
 								<h4>Specializes in teaching children, but students of all ages are welcome</h4>
 								<div class="emboss">
-									<h4 class="text-success text-center">Why Learn Classical Indian Dance?</h4>
+									<h3 class="text-success text-center"><strong>Why Learn Classical Indian Dance?</strong></h3>
 									<ol>
 										<li>Learning classical dances makes you a BEAUTIFUL , GRACEFUL and ELEGANT person inside out. It helps tone your body and gives you a
 											beautiful posture and a healthy glowing skin. It enchances your facial features as well.</li>

@@ -17,7 +17,7 @@
                 She has trained and choreographed many performances for her students for dance festivals, dance competitions, fund raising events all around the New England area and some of her students have also performed in India as well. Her students won various dance competitions in the New England area.</p>
 				<p>Following the Guru-Shishya traditions in teaching, she interacts with students in trying to get the best out of every student. It is to her credit that five of her students have performed their 'Arangetram' or solo dance debut recitals since 2006 and more are on their way to achieving this milestone.</p>
 				<br />
-				<h4 class="text-info text-center">Why Learn Classical Indian Dance?</h4>
+				<h3 class="text-info text-center"><strong>Why Learn Classical Indian Dance?</strong></h3>
 				<ol>
 					<li>Learning classical dances makes you a BEAUTIFUL , GRACEFUL and ELEGANT person inside out. It helps tone your body and gives you a
 					beautiful posture and a healthy glowing skin. It enchances your facial features as well.</li>
